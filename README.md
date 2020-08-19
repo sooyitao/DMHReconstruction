@@ -1,13 +1,13 @@
 # DMHReconstruction
 Reconstruction of digital hologram
 
-2 main programs:
+##Main programs:
 
 Single Hologram.py - Reconstruct single wavelength hologram
 
 Dual-wavelength.py - Reconstruct dual wavelength hologram
 
-2 modes:
+##Modes:
 autoselect.py - Bypass selection process
 
 Video Reconstruction.py - Reconstruct dual wavelength videos frame by frame
